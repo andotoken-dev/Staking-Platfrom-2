@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@elrondnetwork/dapp-utils": "^0.1.3"
+  }
+}
